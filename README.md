@@ -21,3 +21,25 @@ Atualizações Forçadas: Em raras ocasiões, podem ocorrer atualizações forç
 O Indicador é desenvolvido com foco em segurança e confiabilidade na geração de dados. É importante notar que o produto está em desenvolvimento contínuo (beta/early stage).
 
 Sua lógica e estrutura interna são frequentemente modificadas e aprimoradas, mas essas alterações de desenvolvimento são realizadas de forma a não impactar diretamente no funcionamento e na entrega dos dados aos usuários finais.
+
+#Como instalar e como funciona?
+
+Siga os seguintes passos se você tiver realizado a compra da sua chave e recebido a mesma:
+
+#Instalando:
+
+- Abra o instalador e selecione a corretora que a conta está vinculada em "Nome do Terminal". (ID do Terminal pode ser ignorado)
+- Clique em "Instalar Indicador", em seguida clique em "Atualizar Níveis" para certificar que são os dados mais recentes.
+- Após a instalação bem sucedida, feche e abra o Meta-Trader que foi realizado a instalação.
+
+#Ativando:
+
+- Na aba "Navegar" procure por "Indicadores" e localize o "Nomad-Indicador" e dê dois cliques.
+- Em "Parâmetros de entrada" localize o campo com o texto "INSIRA_SUA_CHAVE-DATA_AQUI" e insirua sua chave de ativação.
+- Clique em "OK" e pronto.
+
+Seu indicador Gamma está pronto para utilização. para mais informações contate alguém da equipe:
+
+Danilo Petri: +55 11 95830-0001
+Raimundo Gaspar +55 86 8118-2293
+
